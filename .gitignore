@@ -1,0 +1,5 @@
+# Ignore le dossier de l'environnement virtuel
+venv/
+
+# Ignore les fichiers de données HDF5
+*.h5
